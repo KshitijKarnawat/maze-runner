@@ -1,5 +1,3 @@
-- Willing to modify this project
-
 # maze-runner
 
 Note: Implementation of Left Wall Following and Right Wall Following Algorithms
