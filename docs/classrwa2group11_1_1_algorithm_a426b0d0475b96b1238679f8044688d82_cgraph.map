@@ -1,0 +1,12 @@
+<map id="rwa2group11::Algorithm::right_wall_following" name="rwa2group11::Algorithm::right_wall_following">
+<area shape="rect" id="node1" title="Follow left wall." alt="" coords="5,166,184,207"/>
+<area shape="rect" id="node2" href="$class_simulator.html#a0ac8075a09d517a4538dea7d70b80e55" title="Move the robot forward." alt="" coords="232,5,415,32"/>
+<area shape="rect" id="node3" href="$classrwa2group11_1_1_algorithm.html#a2102ae3174369501a64e81fc3569ba91" title="Follow left wall." alt="" coords="234,107,413,149"/>
+<area shape="rect" id="node5" href="$class_simulator.html#ab6b749c8f50c6268c7c777ae6879c80e" title="Check if there is a wall in front of the robot." alt="" coords="463,39,617,65"/>
+<area shape="rect" id="node7" href="$class_simulator.html#af6b6e867ea624e5a616ae521e740d16b" title="Check if there is a wall to the right of the robot." alt="" coords="463,191,617,217"/>
+<area shape="rect" id="node8" href="$class_simulator.html#ae77656a3dea16067d95ca727c36afaab" title="Set the color of the cell at the given coordinates." alt="" coords="250,224,397,251"/>
+<area shape="rect" id="node9" href="$class_simulator.html#ab103b5780fb3102441270df9c006e435" title="Turn the robot left." alt="" coords="251,275,395,301"/>
+<area shape="rect" id="node10" href="$class_simulator.html#af3e20b66f7372a26639a2ecf6f881490" title="Turn the robot right." alt="" coords="247,325,400,352"/>
+<area shape="rect" id="node4" href="$class_simulator.html#aa0e3277ba6aeba683eb5888ba637a477" title="Set a wall at the given coordinates." alt="" coords="469,89,611,116"/>
+<area shape="rect" id="node6" href="$class_simulator.html#a83249957b4edf5ddb8ee97355f4d229b" title="Check if there is a wall to the left of the robot." alt="" coords="467,140,613,167"/>
+</map>

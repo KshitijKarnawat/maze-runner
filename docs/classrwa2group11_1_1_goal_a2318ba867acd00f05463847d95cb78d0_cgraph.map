@@ -1,0 +1,5 @@
+<map id="rwa2group11::Goal::color_goal" name="rwa2group11::Goal::color_goal">
+<area shape="rect" id="node1" title="Change the color of the Goal and Set text as &#39;G&#39;." alt="" coords="5,23,159,65"/>
+<area shape="rect" id="node2" href="$class_simulator.html#ae77656a3dea16067d95ca727c36afaab" title="Set the color of the cell at the given coordinates." alt="" coords="207,5,353,32"/>
+<area shape="rect" id="node3" href="$class_simulator.html#aa033cf7d80338a24678b95ec6f69b371" title="Set the text in a cell at the given coordinates." alt="" coords="210,56,350,83"/>
+</map>

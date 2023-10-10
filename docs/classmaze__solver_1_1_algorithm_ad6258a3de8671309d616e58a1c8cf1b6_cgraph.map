@@ -1,0 +1,4 @@
+<map id="maze_solver::Algorithm::set_borders" name="maze_solver::Algorithm::set_borders">
+<area shape="rect" id="node1" title="Follow left wall." alt="" coords="5,5,183,47"/>
+<area shape="rect" id="node2" href="$class_simulator.html#aa0e3277ba6aeba683eb5888ba637a477" title="Set a wall at the given coordinates." alt="" coords="231,13,373,39"/>
+</map>

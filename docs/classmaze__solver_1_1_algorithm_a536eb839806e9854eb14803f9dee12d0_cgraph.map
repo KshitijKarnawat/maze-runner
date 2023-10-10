@@ -1,0 +1,9 @@
+<map id="maze_solver::Algorithm::dfs" name="maze_solver::Algorithm::dfs">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,211,159"/>
+<area shape="rect" id="node2" href="$class_simulator.html#a0ac8075a09d517a4538dea7d70b80e55" title="Move the robot forward." alt="" coords="259,5,441,32"/>
+<area shape="rect" id="node3" href="$class_simulator.html#ab103b5780fb3102441270df9c006e435" title="Turn the robot left." alt="" coords="278,56,422,83"/>
+<area shape="rect" id="node4" href="$class_simulator.html#af3e20b66f7372a26639a2ecf6f881490" title="Turn the robot right." alt="" coords="273,107,427,133"/>
+<area shape="rect" id="node5" href="$class_simulator.html#ab6b749c8f50c6268c7c777ae6879c80e" title="Check if there is a wall in front of the robot." alt="" coords="273,157,427,184"/>
+<area shape="rect" id="node6" href="$class_simulator.html#a83249957b4edf5ddb8ee97355f4d229b" title="Check if there is a wall to the left of the robot." alt="" coords="277,208,423,235"/>
+<area shape="rect" id="node7" href="$class_simulator.html#af6b6e867ea624e5a616ae521e740d16b" title="Check if there is a wall to the right of the robot." alt="" coords="273,259,427,285"/>
+</map>

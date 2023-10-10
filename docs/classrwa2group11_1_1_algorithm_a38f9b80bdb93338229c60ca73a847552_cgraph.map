@@ -1,0 +1,7 @@
+<map id="rwa2group11::Algorithm::way_back" name="rwa2group11::Algorithm::way_back">
+<area shape="rect" id="node1" title="Follow left wall." alt="" coords="5,74,184,115"/>
+<area shape="rect" id="node2" href="$class_simulator.html#a0ac8075a09d517a4538dea7d70b80e55" title="Move the robot forward." alt="" coords="232,5,415,32"/>
+<area shape="rect" id="node3" href="$class_simulator.html#ae77656a3dea16067d95ca727c36afaab" title="Set the color of the cell at the given coordinates." alt="" coords="250,56,397,83"/>
+<area shape="rect" id="node4" href="$class_simulator.html#ab103b5780fb3102441270df9c006e435" title="Turn the robot left." alt="" coords="251,107,395,133"/>
+<area shape="rect" id="node5" href="$class_simulator.html#af3e20b66f7372a26639a2ecf6f881490" title="Turn the robot right." alt="" coords="247,157,400,184"/>
+</map>

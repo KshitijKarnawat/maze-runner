@@ -1,0 +1,7 @@
+<map id="rwa2group11::Algorithm::set_wall" name="rwa2group11::Algorithm::set_wall">
+<area shape="rect" id="node1" title="Follow left wall." alt="" coords="5,74,184,115"/>
+<area shape="rect" id="node2" href="$class_simulator.html#aa0e3277ba6aeba683eb5888ba637a477" title="Set a wall at the given coordinates." alt="" coords="238,5,381,32"/>
+<area shape="rect" id="node3" href="$class_simulator.html#ab6b749c8f50c6268c7c777ae6879c80e" title="Check if there is a wall in front of the robot." alt="" coords="233,56,386,83"/>
+<area shape="rect" id="node4" href="$class_simulator.html#a83249957b4edf5ddb8ee97355f4d229b" title="Check if there is a wall to the left of the robot." alt="" coords="237,107,382,133"/>
+<area shape="rect" id="node5" href="$class_simulator.html#af6b6e867ea624e5a616ae521e740d16b" title="Check if there is a wall to the right of the robot." alt="" coords="232,157,387,184"/>
+</map>
